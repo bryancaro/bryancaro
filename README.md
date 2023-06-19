@@ -25,13 +25,24 @@ Here are some of the projects I have developed:
 
 1. [Your Trip](https://github.com/bryancaro/Your-Trip): Welcome to Your Trip, a flight search application designed to make it easier for you to find flights to any destination worldwide. This app is part of a technical test for the Ryanair company. Developed using iOS 15, SwiftUI, The Composable Architecture (TCA), and Unit tests.
 
+   <img width="60" alt="Screenshot 2023-06-19 at 14 42 48" src="https://github.com/bryancaro/bryancaro/assets/58017823/5a86935a-6dcc-42eb-a544-7d1fc4f69aba">
+
 2. [CabifyChallenge](https://github.com/bryancaro/Store-Challenge): Our e-commerce application is an online shopping platform designed to facilitate the purchasing experience of our users. The application is developed in Xcode using SwiftUI, following the MVVM architecture, and employing TDD to ensure greater code quality and stability. Developed using iOS 14, SwiftUI, MVVM, Uses Cases, and TDD.
+
+   <img width="60" alt="Screenshot 2023-06-19 at 14 43 30" src="https://github.com/bryancaro/bryancaro/assets/58017823/3f2f7b50-23be-404b-8d7f-27d3551dcab3">
 
 3. [AdHealth-Tracker](https://github.com/bryancaro/AdHealth-Tracker): This is a development project for an application that allows you to track your daily steps and view if you've broken any records. The app is built using SwiftUI for the user interface, Core Data for data storage, and Async Await for asynchronous programming. Developed using HealthKit, iOS 15, SwiftUI, MVVM, Uses Cases, and TDD.
 
+    <img width="60" alt="Screenshot 2023-06-19 at 14 43 11" src="https://github.com/bryancaro/bryancaro/assets/58017823/c6a7d03f-13e8-4ce8-bc10-5a59a7cfe720">
+
 4. [Rappi-Watch](https://github.com/bryancaro/Rappi-Watch): La aplicación permite a los usuarios visualizar un catálogo de películas y series de TV por categorías con sus respectivos detalles. Developed using iOS 14, SwiftUI, and MVVM.
 
+    <img width="60" alt="Screenshot 2023-06-19 at 14 43 11" src="https://github.com/bryancaro/bryancaro/assets/58017823/90ce862a-f8e6-413c-bc85-d3e02db91d1a">
+
 5. [PunkApp](https://github.com/bryancaro/PunkApp): La aplicación permite a los usuarios visualizar un catálogo de cervezas con sus respectivos detalles. Developed using iOS 14, SwiftUI, and MVVM.
+
+    <img width="60" alt="Screenshot 2023-06-19 at 14 43 11" src="https://github.com/bryancaro/bryancaro/assets/58017823/ebea8c7d-36a5-48b9-9196-86474c23333a">
+
 
 
 ### Experience
