@@ -89,16 +89,9 @@ Here are some of the projects I have developed:
 
 I am a self-motivated and dedicated professional who thrives on challenges and continuously seeks opportunities to learn and grow. My passion for mentorship sets me apart, as I genuinely enjoy sharing my knowledge and experience with others. I strongly believe that collaboration and mentorship contribute to the success of any team or project.
 
-### Projects
-
-Here are a few highlights of my work:
-
-1. **XYZ App**: Developed an iOS application for XYZ company, which garnered positive feedback for its sleek design and seamless user experience. Implemented cutting-edge features using Core Data and integrated with third-party APIs for enhanced functionality.
-
-2. **ABC Project**: Led a team of developers in creating a groundbreaking iOS application for ABC project. Collaborated closely with designers and stakeholders to ensure the application's features aligned with the project's objectives. The app received recognition for its intuitive UI and optimized performance.
 
 ### Get in Touch
 
-I am always excited to collaborate on new projects and connect with fellow developers. If you're interested in working together or have any questions, feel free to reach out to me. You can find me on LinkedIn [here](https://www.linkedin.com/in/bryan-caromonsalve/) or email me at [email protected]
+I am always excited to collaborate on new projects and connect with fellow developers. If you're interested in working together or have any questions, feel free to reach out to me. You can find me on LinkedIn [here](https://www.linkedin.com/in/bryan-caro-262a8b172) or email me at [bryancaro96@gmail.com]
 
 Let's build amazing iOS applications together!
