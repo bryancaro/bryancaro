@@ -11,6 +11,29 @@ Welcome to my GitHub profile! I'm Bryan Caro Monsalve, an experienced iOS develo
 - **Internet of Things (IoT) Technology**: I am also fascinated by IoT technology and its potential for creating innovative applications. I stay updated on the latest advancements in this area, leveraging this knowledge to enhance my projects.
 
 
+### Libraries
+
+Here are some of the libraries I have created:
+
+1. [CoreNetwork](https://github.com/bryancaro/CoreNetwork): A Swift Package Manager (SPM) library for handling analytics calls, service calls, and Core Data integration.
+
+2. [CoreHelpers](https://github.com/bryancaro/CoreHelpers): A Swift Package Manager (SPM) library that provides useful tools such as extensions, modifiers, utilities, and more for Swift and SwiftUI development.
+
+### Projects
+
+Here are some of the projects I have developed:
+
+1. [Your Trip](https://github.com/bryancaro/Your-Trip): Welcome to Your Trip, a flight search application designed to make it easier for you to find flights to any destination worldwide. This app is part of a technical test for the Ryanair company. Developed using iOS 15, SwiftUI, The Composable Architecture (TCA), and Unit tests.
+
+2. [CabifyChallenge](https://github.com/bryancaro/Store-Challenge): Our e-commerce application is an online shopping platform designed to facilitate the purchasing experience of our users. The application is developed in Xcode using SwiftUI, following the MVVM architecture, and employing TDD to ensure greater code quality and stability. Developed using iOS 14, SwiftUI, MVVM, Uses Cases, and TDD.
+
+3. [AdHealth-Tracker](https://github.com/bryancaro/AdHealth-Tracker): This is a development project for an application that allows you to track your daily steps and view if you've broken any records. The app is built using SwiftUI for the user interface, Core Data for data storage, and Async Await for asynchronous programming. Developed using HealthKit, iOS 15, SwiftUI, MVVM, Uses Cases, and TDD.
+
+4. [Rappi-Watch](https://github.com/bryancaro/Rappi-Watch): La aplicación permite a los usuarios visualizar un catálogo de películas y series de TV por categorías con sus respectivos detalles. Developed using iOS 14, SwiftUI, and MVVM.
+
+5. [PunkApp](https://github.com/bryancaro/PunkApp): La aplicación permite a los usuarios visualizar un catálogo de cervezas con sus respectivos detalles. Developed using iOS 14, SwiftUI, and MVVM.
+
+
 ### Experience
 
 - **iOS Developer** - Carrefour, Madrid, Spain 
