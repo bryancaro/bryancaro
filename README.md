@@ -23,7 +23,7 @@ Here are some of the libraries I have created:
 
 Here are some of the projects I have developed:
 
-1. [Your Trip](https://github.com/bryancaro/Your-Trip): Welcome to Your Trip, a flight search application designed to make it easier for you to find flights to any destination worldwide. This app is part of a technical test for the Ryanair company. Developed using iOS 15, SwiftUI, The Composable Architecture (TCA), and Unit tests.
+1. [Your Trip](https://github.com/bryancaro/Your-Trip): Welcome to Your Trip, a flight search application designed to make it easier for you to find flights to any destination worldwide. Developed using iOS 15, SwiftUI, The Composable Architecture (TCA), and Unit tests.
 
    <img width="60" alt="Screenshot 2023-06-19 at 14 42 48" src="https://github.com/bryancaro/bryancaro/assets/58017823/5a86935a-6dcc-42eb-a544-7d1fc4f69aba">
 
