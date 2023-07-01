@@ -17,7 +17,7 @@ Here are some of the libraries I have created:
 
 1. [CoreNetwork](https://github.com/bryancaro/CoreNetwork): A Swift Package Manager (SPM) library for handling analytics calls, service calls, and Core Data integration.
 
-2. [CoreHelpers](https://github.com/bryancaro/CoreHelpers): A Swift Package Manager (SPM) library that provides useful tools such as extensions, modifiers, utilities, and more for Swift and SwiftUI development.
+2. [CoreUtils](https://github.com/bryancaro/CoreUtils): A Swift Package Manager (SPM) library that provides useful tools such as extensions, modifiers, utilities, and more for Swift and SwiftUI development.
 
 ### Projects
 
